@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\accounts",
+    "\\accounts\\templates",
+    "\\media\\movie",
+    "\\media\\movie\\images",
+    "\\movie",
+    "\\moviereviews",
+    "\\moviereviews\\templates",
+    "\\movie\\templates",
+    "\\news",
+    "\\news\\templates"
+  ],
+  "PreviewInSolutionExplorer": false
+}
